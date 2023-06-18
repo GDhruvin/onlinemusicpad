@@ -1,0 +1,198 @@
+body {
+  text-align: center;
+  background-image: url("images/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: 1538px;
+  
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: black;
+  font-family: sans-serif;
+}
+
+.Q{
+  background-image: url("images/accordion.jpeg");
+  background-size: 138px;
+}
+
+.W{
+  background-image: url("images/bagpipes.jpg");
+  background-size: 129px;
+}
+
+.E{
+  background-image: url("images/trumpet.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 130px;
+}
+
+.R{
+  background-image: url("images/bell.jpg");
+  
+  background-size: 138px;
+}
+
+.T{
+  background-image: url("images/bongo.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 129px;
+}
+
+.Y{
+  background-image: url("images/cello.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 90px;
+}
+
+.U{
+  background-image: url("images/congo.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 107px;
+}
+
+.I{
+  background-image: url("images/crash.jpg");
+  background-size: 138px;
+}
+
+.O{
+  background-image: url("images/cymbal.jpg");
+  background-size: 138px;
+}
+
+.P{
+  background-image: url("images/dholak.jpg");
+  background-size: 138px;
+}
+
+.A{
+  background-image: url("images/duff.jpg");
+  background-size: 138px;
+}
+
+.S{
+  background-image: url("images/duggis.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 92px;
+}
+
+.D{
+  background-image: url("images/flute.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 138px;
+}
+
+.F{
+  background-image: url("images/ghatam.jpg");
+  background-size: 138px;
+}
+
+.G{
+  background-image: url("images/gong.jpg");
+  background-size: 138px;
+}
+
+.H{
+  background-image: url("images/harmonica.jpg");
+  background-size: 138px;
+}
+
+.J{
+  background-image: url("images/harmonium.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 138px;
+}
+
+.K{
+  background-image: url("images/harp.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 105px;
+}
+
+.L{
+  background-image: url("images/keyboard.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 138px;
+}
+
+.Z{
+  background-image: url("images/mangira.jpg");
+  background-size: 138px;
+}
+
+.X{
+  background-image: url("images/sarngi.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 138px;
+}
+
+.C{
+  background-image: url("images/maracas.jpg");
+  background-size: 138px;
+}
+
+.V{
+  background-image: url("images/santor.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 138px;
+}
+
+.B{
+  background-image: url("images/sexaphone.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 138px;
+  text-shadow: 2px 0 #DBEDF3;
+}
+
+
+.set {
+  margin: 3% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: black;
+  text-shadow: 2px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
